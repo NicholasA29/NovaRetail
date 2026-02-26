@@ -1,0 +1,101 @@
+idx,label,CustomerID,TransactionID,TransactionDate,ProductCategory,PurchaseAmount,CustomerAgeGroup,CustomerGender,CustomerRegion,CustomerSatisfaction,RetailChannel
+0,Promising,12345,TX1001,1/15/2023,Electronics,349.99,25-34,Male,North,4,Online
+1,Growth,12346,TX1002,1/16/2023,Home Appliances,199.99,35-44,Female,West,3,Physical Store
+2,Promising,12347,TX1003,1/17/2023,Clothing,89.99,18-24,Male,South,5,Online
+3,Decline,12348,TX1004,1/18/2023,Groceries,59.99,45-54,Female,East,2,Physical Store
+4,Stable,12349,TX1005,1/19/2023,Books,29.99,25-34,Male,North,4,Online
+5,Promising,12350,TX1006,1/20/2023,Toys,129.99,25-34,Female,North,5,Online
+6,Growth,12350,TX1006,1/20/2023,Health & Wellness,119.99,35-44,Female,North,5,Online
+7,Decline,12500,TX2001,1/22/2023,Beauty Products,23.99,18-24,Female,South,1,Physical Store
+8,Stable,12350,TX1006,1/20/2023,Sporting Goods,23.99,25-34,Female,West,4,Online
+9,Promising,12350,TX1006,2/1/2023,Fashion,249.99,25-34,Female,South,5,Physical Store
+10,Growth,12350,TX1006,1/20/2023,Electronics,299.99,35-44,Female,West,5,Physical Store
+11,Decline,12350,TX1006,1/20/2023,Sporting Goods,239.99,35-44,Female,West,3,Physical Store
+12,Stable,12350,TX1006,1/20/2023,Health & Beauty,45.99,35-44,Female,West,4,Physical Store
+13,Promising,23456,TX1006,2/10/2023,Beauty & Personal Care,54.99,25-34,Female,West,5,Online
+14,Growth,12350,TX1006,2/12/2023,Beauty Products,219.99,25-34,Female,South,4,Physical Store
+15,Promising,12351,TX1007,1/21/2023,Electronics,459.99,18-24,Male,West,4,Physical Store
+16,Growth,12351,TX1007,1/21/2023,Sports & Outdoors,249.99,18-24,Male,South,4,Physical Store
+17,Decline,12501,TX2002,1/23/2023,Electronics,549.99,45-54,Male,East,1,Physical Store
+18,Stable,12351,TX1007,1/21/2023,Health Supplements,19.99,45-54,Male,East,5,Physical Store
+19,Promising,12351,TX1007,2/2/2023,Electronics,299.99,35-44,Male,North,5,Online
+20,Growth,12351,TX1007,1/21/2023,Home Appliances,399.99,25-34,Male,North,4,Online
+21,Decline,12351,TX1007,1/21/2023,Toys,199.99,25-34,Male,South,1,Online
+22,Stable,12351,TX1007,1/21/2023,Home & Garden,23.99,45-54,Male,South,3,Online
+23,Promising,23457,TX1007,2/12/2023,Toys & Games,24.99,18-24,Male,South,4,Physical Store
+24,Growth,12351,TX1007,2/13/2023,Sports Equipment,459.99,35-44,Male,West,5,Online
+25,Promising,12352,TX1008,1/22/2023,Clothing,99.99,35-44,Female,East,5,Online
+26,Growth,12352,TX1008,1/22/2023,Electronics,299.99,25-34,Female,West,5,Online
+27,Decline,12502,TX2003,1/24/2023,Clothing,59.99,25-34,Male,North,1,Online
+28,Stable,12352,TX1008,1/22/2023,Cosmetics,29.99,35-44,Female,South,4,Online
+29,Promising,12352,TX1008,2/3/2023,Home Appliances,399.99,45-54,Female,East,4,Physical Store
+30,Growth,12352,TX1008,1/22/2023,Furniture,199.99,45-54,Female,South,3,Physical Store
+31,Decline,12352,TX1008,1/22/2023,Beauty Products,129.99,55-64,Female,East,2,Physical Store
+32,Stable,12352,TX1008,1/22/2023,Toys & Games,35.99,18-24,Male,East,5,Physical Store
+33,Promising,23458,TX1008,2/13/2023,Sports & Outdoors,119.99,35-44,Female,East,3,Online
+34,Growth,12352,TX1008,2/14/2023,Toys,149.99,25-34,Female,East,3,Physical Store
+35,Promising,12353,TX1009,1/23/2023,Books,34.99,25-34,Male,South,4,Online
+36,Growth,12353,TX1009,1/23/2023,Home Improvement,89.99,45-54,Male,East,4,Physical Store
+37,Decline,12503,TX2004,1/25/2023,Sportswear,119.99,35-44,Female,West,2,Online
+38,Stable,12353,TX1009,1/23/2023,Gardening Tools,15.99,18-24,Male,North,3,Physical Store
+39,Promising,12353,TX1009,2/4/2023,Sporting Goods,99.99,18-24,Male,West,5,Online
+40,Growth,12353,TX1009,1/23/2023,Electronics,599.99,25-34,Male,North,5,Online
+41,Decline,12353,TX1009,1/23/2023,Home Decor,299.99,25-34,Male,North,2,Online
+42,Stable,12353,TX1009,1/23/2023,Sports & Outdoors,69.99,25-34,Female,North,4,Online
+43,Promising,23459,TX1009,2/14/2023,Automotive,399.99,45-54,Male,North,4,Physical Store
+44,Growth,12353,TX1009,2/15/2023,Home Decor,299.99,35-44,Male,North,4,Online
+45,Promising,12354,TX1010,1/24/2023,Health & Beauty,89.99,35-44,Female,North,5,Physical Store
+46,Growth,12354,TX1010,1/24/2023,Fashion & Apparel,99.99,25-34,Female,North,5,Online
+47,Decline,12504,TX2005,1/26/2023,Grocery,45.99,55+,Female,South,2,Physical Store
+48,Stable,12354,TX1010,1/24/2023,Office Supplies,49.99,25-34,Female,East,4,Online
+49,Promising,12354,TX1010,2/5/2023,Books,19.99,25-34,Female,North,4,Physical Store
+50,Growth,12354,TX1010,1/24/2023,Clothing,79.99,18-24,Male,East,4,Physical Store
+51,Decline,12354,TX1010,1/24/2023,Electronics,999.99,45-54,Female,West,1,Physical Store
+52,Stable,12354,TX1010,1/24/2023,Fashion & Apparel,99.99,18-24,Female,South,3,Physical Store
+53,Promising,23460,TX1010,2/15/2023,Furniture & Decor,299.99,18-24,Female,South,5,Online
+54,Growth,12354,TX1010,2/16/2023,Fashion Accessories,89.99,18-24,Female,South,5,Physical Store
+55,Promising,12355,TX1011,1/25/2023,Groceries,79.99,18-24,Male,East,4,Online
+56,Growth,12355,TX1011,1/25/2023,Electronics,199.99,35-44,Male,South,4,Physical Store
+57,Decline,12505,TX2006,1/27/2023,Toys,29.99,25-34,Male,East,1,Physical Store
+58,Stable,12355,TX1011,1/25/2023,Books,12.99,35-44,Male,West,5,Physical Store
+59,Promising,12355,TX1011,2/6/2023,Fashion,149.99,35-44,Male,South,5,Online
+60,Growth,12355,TX1011,1/25/2023,Home Appliances,249.99,35-44,Female,West,5,Online
+61,Decline,12355,TX1011,1/25/2023,Groceries,49.99,35-44,Male,South,2,Online
+62,Stable,12355,TX1011,1/25/2023,Electronics,299.99,35-44,Male,West,4,Physical Store
+63,Promising,23461,TX1011,2/16/2023,Electronics,129.99,25-34,Male,East,4,Physical Store
+64,Growth,12355,TX1011,2/17/2023,Health Supplements,199.99,45-54,Female,East,4,Online
+65,Promising,12356,TX1012,1/26/2023,Toys,199.99,25-34,Female,West,5,Physical Store
+66,Growth,12356,TX1012,1/26/2023,Books,29.99,18-24,Female,West,3,Online
+67,Decline,12506,TX2007,1/28/2023,Office Supplies,89.99,35-44,Female,North,1,Online
+68,Stable,12356,TX1012,1/26/2023,Electronics,99.99,45-54,Female,South,4,Online
+69,Promising,12356,TX1012,2/7/2023,Electronics,449.99,45-54,Female,East,5,Physical Store
+70,Growth,12356,TX1012,1/26/2023,Books,19.99,25-34,Male,North,4,Physical Store
+71,Decline,12356,TX1012,1/26/2023,Clothing,159.99,25-34,Female,East,3,Physical Store
+72,Stable,12356,TX1012,1/26/2023,Books & Magazines,15.99,45-54,Male,East,5,Online
+73,Promising,23462,TX1012,2/17/2023,Books & Magazines,19.99,35-44,Female,West,5,Online
+74,Growth,12356,TX1012,2/18/2023,Electronics,549.99,35-44,Male,West,5,Physical Store
+75,Promising,12357,TX1013,1/27/2023,Electronics,599.99,18-24,Male,South,4,Online
+76,Growth,12357,TX1013,1/27/2023,Health & Wellness,129.99,35-44,Male,East,5,Online
+77,Decline,12507,TX2008,1/29/2023,Books,129.99,18-24,Male,South,1,Physical Store
+78,Stable,12357,TX1013,1/27/2023,Grocery Items,18.99,25-34,Male,North,4,Physical Store
+79,Promising,12357,TX1013,2/8/2023,Home Appliances,129.99,18-24,Male,West,4,Online
+80,Growth,12357,TX1013,1/27/2023,Groceries,39.99,45-54,Female,South,4,Online
+81,Decline,12357,TX1013,1/27/2023,Sporting Goods,249.99,35-44,Male,North,2,Physical Store
+82,Stable,12357,TX1013,1/27/2023,Groceries,45.99,25-34,Female,North,4,Physical Store
+83,Promising,23463,TX1013,2/18/2023,Health & Wellness,79.99,45-54,Male,South,3,Online
+84,Growth,12357,TX1013,2/19/2023,Food & Beverages,99.99,18-24,Male,North,3,Physical Store
+85,Promising,12358,TX1014,1/28/2023,Clothing,129.99,35-44,Female,North,5,Online
+86,Growth,12358,TX1014,1/28/2023,Fashion & Apparel,99.99,25-34,Female,North,4,Physical Store
+87,Decline,12508,TX2009,1/30/2023,Health & Wellness,99.99,55+,Female,West,1,Online
+88,Stable,12358,TX1014,1/28/2023,Children's Clothing,39.99,35-44,Female,East,4,Online
+89,Promising,12358,TX1014,2/9/2023,Sporting Goods,49.99,35-44,Female,North,5,Online
+90,Growth,12358,TX1014,1/28/2023,Electronics,899.99,25-34,Male,North,5,Physical Store
+91,Decline,12358,TX1014,1/28/2023,Toys,109.99,45-54,Female,West,1,Online
+92,Stable,12358,TX1014,1/28/2023,Clothing,39.99,35-44,Male,South,4,Online
+93,Promising,23464,TX1014,2/19/2023,Food & Beverages,39.99,18-24,Female,East,4,Physical Store
+94,Growth,12358,TX1014,2/20/2023,Gaming,199.99,25-34,Female,South,5,Online
+95,Promising,12359,TX1015,1/29/2023,Books,69.99,25-34,Male,East,4,Physical Store
+96,Growth,12359,TX1015,1/29/2023,Groceries,49.99,18-24,Male,South,3,Online
+97,,12509,TX2010,1/31/2023,Outdoor Equipment,249.99,25-34,Male,East,1,Physical Store
+98,Stable,12359,TX1015,1/29/2023,Outdoor Equipment,24.99,18-24,Male,West,3,Physical Store
+99,Promising,12359,TX1015,2/10/2023,Books,39.99,25-34,Male,South,5,Physical Store
